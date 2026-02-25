@@ -2,7 +2,7 @@
 
 A real-time CPU Scheduling Visualizer that uses **Projectile Motion** physics to represent OS scheduling concepts.
 
-## 🎯 Educational Mapping
+##  Educational Mapping
 
 | OS Concept | Projectile Motion Equivalent |
 |------------|-------------------------------|
@@ -13,7 +13,7 @@ A real-time CPU Scheduling Visualizer that uses **Projectile Motion** physics to
 | **Turnaround Time** | Range ($R$) |
 | **Completion Time** | Time of Flight ($T_{flight}$) |
 
-## 🚀 Features
+##  Features
 
 - **6 Algorithms**: FCFS, SJF, Priority, Round Robin, RMS, EDF.
 - **Physics Simulation**: Custom-built projectile logic animating process "balls".
