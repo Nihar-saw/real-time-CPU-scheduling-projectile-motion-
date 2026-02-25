@@ -21,7 +21,7 @@ A real-time CPU Scheduling Visualizer that uses **Projectile Motion** physics to
 - **Glassmorphism UI**: Modern, dark-mode default design with Tailwind CSS.
 - **Educational Mode**: Learn the math behind the mapping.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React JS** (Vite)
 - **Tailwind CSS** (Glassmorphism)
@@ -29,7 +29,7 @@ A real-time CPU Scheduling Visualizer that uses **Projectile Motion** physics to
 - **Recharts** (Dashboard)
 - **Lucide React** (Icons)
 
-## 📦 Getting Started
+##  Getting Started
 
 1. **Install dependencies**:
    ```bash
@@ -44,7 +44,7 @@ A real-time CPU Scheduling Visualizer that uses **Projectile Motion** physics to
 3. **Open in browser**:
    Navigate to `http://localhost:5173`
 
-## 🧠 Mathematical Formulas
+##  Mathematical Formulas
 
 - **Range**: $R = \frac{v_0^2 \sin(2\theta)}{g}$
 - **Max Height**: $H = \frac{v_0^2 \sin^2\theta}{2g}$
